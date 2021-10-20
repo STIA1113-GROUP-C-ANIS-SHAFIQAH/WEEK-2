@@ -1,0 +1,16 @@
+
+public class Exercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("6:00-Go to bathroom to take shower");
+		System.out.println("7:00-Go to cafe for having breakfast with friends");
+		System.out.println("8:00-Doing some exercise about coding");
+		System.out.println("10:30-Get ready for first class ");
+		System.out.println("12:30-Take some break and ready for solat Zohor");
+		System.out.println("14:00-Get ready for second class");
+		System.out.println("17:00-Jogging with my friends");
+		System.out.println("19:00-Take shower");
+		System.out.println("20:00-Having a dinner at cafe");
+		System.out.println("21:00-Doing some exercise about coding");
+		System.out.println("23:00-Ready to sleep");
